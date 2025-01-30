@@ -8,7 +8,6 @@ This project demonstrates how to evaluate the performance of transformer models 
 
 - [Overview](#overview)
 - [Models Used](#models-used)
-- [Setup and Installation](#setup-and-installation)
 - [Dataset](#dataset)
 - [Evaluation](#evaluation)
 - [Results](#results)
