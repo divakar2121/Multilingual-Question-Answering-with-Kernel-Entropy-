@@ -11,7 +11,6 @@ This project demonstrates how to evaluate the performance of transformer models 
 - [Dataset](#dataset)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [License](#license)
 
 ## Overview
 
